@@ -82,7 +82,7 @@ body {
   line-height: 24px;
   color: #ffffff;
   padding-top: 15px;
-  text-decoration: underline;
+  
 }
 .tech-skills-title {
   font-size: 22px;
@@ -197,9 +197,9 @@ body {
 }
 
 .projects-link {
-  color: #595959;
+  color: black;
   font-size: 14px;
-  font-weight: 400;
+  font-weight: 700;
   line-height: 24px;
   text-decoration: none;
   padding-bottom: 5px;
@@ -222,11 +222,6 @@ body {
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
-}
-
-.dots {
-  color: #bebebe;
-  font-weight: 100;
 }
 
 .projects-item {
@@ -258,7 +253,7 @@ line-height: 1.09;
 }
 
 .profession-time {
-  font-size: 12px;
+  font-size: 14px;
   line-height: 24px;
   color: #a8a8a8;
   font-weight: 400;
@@ -296,7 +291,7 @@ line-height: 1.09;
 }
 
 .education-time {
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 400;
   line-height: 24px;
   color: #a8a8a8;
