@@ -29,14 +29,14 @@ body {
 }
 
 .my-photo {
-  width: 280px;
+  width: 323px;
   padding: 0 10px;
 }
 
 .about-me-container {
   padding-left: 90px;
   padding-right: 90px;
-  padding-top: 70px;
+  padding-top: 20px;
   padding-bottom: 70px;
 }
 
@@ -114,7 +114,7 @@ body {
 }
 
 .soft-skills-title {
-  font-size: 22px;
+  font-size: 21px;
   font-weight: 700;
   line-height: 24px;
   margin-bottom: 20px;
@@ -188,7 +188,7 @@ body {
 }
 
 .info-container {
-  margin-bottom: 55px;
+  margin-bottom: 90px;
 }
 
 .about-me-title {
@@ -321,5 +321,4 @@ line-height: 1.09;
 .coverLetter-link{
   text-decoration: none;
 }
-
 
